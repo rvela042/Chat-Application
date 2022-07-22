@@ -1,6 +1,0 @@
-package.json -- //when you see nodemon it will automaticall restart the js server"
-if you do not use a prompt like this, then you will hav to amnually stop and restart the server to make the changs happen
-
-index.js - mongoose (constant) is used to interact with the mongoose.DB server
-
-in the .env file, the port can be changed to anything according to your needs - for now we are using port 5000
